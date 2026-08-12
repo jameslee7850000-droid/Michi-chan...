@@ -28,7 +28,7 @@ const fallbackMessages = [
   "ইসস! এতো ঢং করো কেন? একদম চড় খাইতে ইচ্ছে করতাছে 🤏🏻🐸"
 ];
 
-const baseApiUrl = "https://baby-1-tf9x.onrender.com";
+const baseApiUrl = "https://baby-1-1-x5j0.onrender.com/";
 
 const adminCredentials = {
   username: "Mr.king",
